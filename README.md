@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Enamejewa</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h1 align="center">Hi 👋, </h1>
+<h3 align="center">A passionate DevSecOps Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/emanet1](https://github.com/emanet1)
 
